@@ -1,2 +1,2 @@
 # Data-Analyst-
-DA PROJECTS
+DA bank loan analytics PROJECTS
